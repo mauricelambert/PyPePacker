@@ -1,0 +1,2 @@
+[console_scripts]
+PyPePacker = PyPePacker:main

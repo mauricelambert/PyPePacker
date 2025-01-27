@@ -1,0 +1,14 @@
+LICENSE.txt
+MANIFEST.in
+PyPePacker.py
+README.md
+pyproject.toml
+requirements.txt
+setup.cfg
+setup.py
+PyPePacker.egg-info/PKG-INFO
+PyPePacker.egg-info/SOURCES.txt
+PyPePacker.egg-info/dependency_links.txt
+PyPePacker.egg-info/entry_points.txt
+PyPePacker.egg-info/requires.txt
+PyPePacker.egg-info/top_level.txt
