@@ -62,7 +62,10 @@ python3 -m PyPePacker   # Using python module
 python3 PyPePacker.pyz  # Using python executable
 PyPePacker.exe          # Using python Windows executable
 
-PyPePacker C:\Windows\System32\net1.exe C:\Windows\System32\calc.exe
+PyPePacker C:\Windows\System32\net1.exe "net user"
+PyPePacker C:\Windows\System32\net1.exe "net user" MyKey
+
+./net1_packed.exe
 ```
 
 ## Links
