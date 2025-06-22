@@ -11,8 +11,12 @@ data entropy (using EntropyEncoding).
 ## Requirements
 
 This package require:
+
  - python3
  - python3 Standard Library
+ - PyPeLoader >= 1.0.0
+ - RC6Encryption >= 1.0.1
+ - EntropyEncoding >= 0.0.5
 
 ## Installation
 
