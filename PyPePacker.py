@@ -331,7 +331,7 @@ def main() -> int:
             'USAGES: "',
             executable,
             '"',
-            *("" if executable.endswith(argv[0]) else (' "', argv[0], '" ')),
+            *(" " if executable.endswith(argv[0]) else (' "', argv[0], '" ')),
             "[executables path] [command line] (key)",
             sep="",
             file=stderr,
